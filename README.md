@@ -1,0 +1,2 @@
+# borrame
+Un repositorio prescindible
